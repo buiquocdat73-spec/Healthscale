@@ -1,6 +1,0 @@
-name: HealthScaleFix
-version: '1.0'
-main: com.example.healthscalefix.HealthScaleFix
-api-version: '1.21'
-author: YourName
-description: Giữ nguyên máu thật, ép thanh máu HUD luôn hiển thị 1 hàng (10 tim).
